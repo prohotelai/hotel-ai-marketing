@@ -1,0 +1,43 @@
+// Isolated Marketing Layer – No Core Access
+// This Prisma schema is COMPLETELY SEPARATE from Core SaaS
+// Contains only tracking and pending registration data
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL_TRACKING")
+}
+
+// Pending hotel registrations from marketing site
+// NO activation, NO onboarding, NO Core SaaS interaction
+model PendingHotel {
+  id        String   @id @default(uuid())
+  hotelName String   @map("hotel_name")
+  location  String
+  email     String
+  phone     String
+  status    String   @default("Pending") // Always Pending in this layer
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@map("pending_hotels")
+}
+
+// Analytics tracking events - isolated from Core
+// Stores hashed IP only (no PII)
+model TrackingEvent {
+  id            String   @id @default(uuid())
+  type          String   // pageView | qrScan | registration
+  publicHotelId String?  @map("public_hotel_id") // opaque ID, not tenantId
+  timestamp     DateTime @default(now())
+  hashedIp      String?  @map("hashed_ip") // SHA-256 hash, no PII
+  userAgent     String?  @map("user_agent")
+  path          String?  // URL path for page views
+
+  @@index([type])
+  @@index([publicHotelId])
+  @@index([timestamp])
+  @@map("tracking_events")
+}

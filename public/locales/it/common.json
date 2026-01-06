@@ -1,0 +1,49 @@
+{
+  "appName": "Hotel AI SaaS",
+  "nav": {
+    "home": "Home",
+    "features": "Funzionalità",
+    "pricing": "Prezzi",
+    "contact": "Contatti",
+    "affiliate": "Affiliati",
+    "register": "Registrati"
+  },
+  "footer": {
+    "description": "La soluzione SaaS completa per hotel moderni. Ottimizza le operazioni e aumenta i ricavi con l'IA.",
+    "copyright": "© 2024 ProInvest Global. Tutti i diritti riservati.",
+    "privacy": "Privacy Policy",
+    "terms": "Termini di Servizio",
+    "howItWorks": "Come Funziona",
+    "careers": "Carriere",
+    "sections": {
+      "product": "Prodotto",
+      "company": "Azienda",
+      "legal": "Legale"
+    },
+    "company": {
+      "name": "ProInvest Global",
+      "address": "2 Frederick Street, Kings Cross",
+      "city": "Londra, WC1X 0ND, Regno Unito",
+      "phone": "+44 7448 810068",
+      "email": "info@proinvestglobal.com"
+    }
+  },
+  "buttons": {
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "learnMore": "Scopri di più",
+    "getStarted": "Inizia",
+    "contactUs": "Contattaci"
+  },
+  "form": {
+    "required": "Questo campo è obbligatorio",
+    "invalidEmail": "Inserisci un email valido",
+    "invalidPhone": "Inserisci un numero di telefono valido",
+    "success": "Modulo inviato con successo",
+    "error": "Si è verificato un errore. Riprova."
+  },
+  "language": {
+    "select": "Lingua",
+    "current": "Lingua corrente"
+  }
+}

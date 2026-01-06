@@ -1,0 +1,244 @@
+{
+  "hero": {
+    "title": "Un système d'exploitation hôtelier tout-en-un alimenté par l'IA",
+    "subtitle": "Une plateforme cloud moderne pour les hôtels, offrant des assistants IA vocaux et textuels 24h/24, un support multilingue, une intégration PMS complète, des workflows automatisés et une formation IA personnalisée basée sur les connaissances de votre établissement.",
+    "trustHint": "Conçu pour les hôtels indépendants et les groupes hôteliers",
+    "cta": {
+      "primary": "Demander une démo",
+      "secondary": "Explorer la plateforme"
+    }
+  },
+  "valueOwners": {
+    "title": "Conçu pour les propriétaires d'hôtels et investisseurs",
+    "subtitle": "Maximisez le potentiel de votre propriété avec des outils intelligents conçus pour la rentabilité et la croissance.",
+    "cards": {
+      "revenue": {
+        "title": "Augmentez les revenus avec la tarification IA",
+        "description": "Tarification dynamique et recommandations de vente intelligentes qui maximisent votre RevPAR."
+      },
+      "costs": {
+        "title": "Réduisez les coûts opérationnels",
+        "description": "Automatisez les tâches routinières et optimisez l'allocation des ressources."
+      },
+      "insights": {
+        "title": "Insights financiers en temps réel",
+        "description": "Tableaux de bord complets et outils de prévision pour une visibilité complète."
+      },
+      "control": {
+        "title": "Contrôle multi-propriétés",
+        "description": "Gestion centralisée pour les chaînes hôtelières avec personnalisation par propriété."
+      }
+    }
+  },
+  "valueStaff": {
+    "title": "Autonomiser les équipes hôtelières",
+    "subtitle": "Donnez à votre personnel les outils nécessaires pour offrir un service exceptionnel.",
+    "cards": {
+      "dashboard": {
+        "title": "Tableau de bord unifié",
+        "description": "Une plateforme pour les réservations, l'entretien, la facturation et la gestion des clients."
+      },
+      "automation": {
+        "title": "Tâches automatisées et assistance IA",
+        "description": "Laissez l'IA gérer les tâches routinières pour vous concentrer sur l'expérience client."
+      },
+      "requests": {
+        "title": "Traitement rapide des demandes",
+        "description": "Gestion des demandes simplifiée pour garantir la satisfaction des clients."
+      },
+      "reports": {
+        "title": "Rapports et visibilité intégrés",
+        "description": "Insights clairs sur les opérations, la performance et la satisfaction client."
+      }
+    }
+  },
+  "valueGuests": {
+    "title": "Un séjour plus intelligent pour vos clients",
+    "subtitle": "Ravissez chaque client avec des expériences personnalisées alimentées par l'IA.",
+    "cards": {
+      "concierge": {
+        "title": "Concierge IA 24/7",
+        "description": "Assistant vocal et chat disponible 24h/24 pour aider les clients."
+      },
+      "multilang": {
+        "title": "Support multilingue",
+        "description": "Communiquez avec les clients dans leur langue préférée."
+      },
+      "contactless": {
+        "title": "Services sans contact",
+        "description": "Check-in mobile, clés numériques et demandes sans contact."
+      },
+      "satisfaction": {
+        "title": "Satisfaction client élevée",
+        "description": "Réponses plus rapides et service personnalisé pour de meilleurs avis."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "subtitle": "Configuration simple, résultats puissants - découvrez comment Hotel AI transforme vos opérations.",
+    "steps": {
+      "book": {
+        "title": "Le client réserve ou scanne le QR",
+        "description": "Les clients réservent en ligne ou scannent les codes QR pour un accès instantané."
+      },
+      "assist": {
+        "title": "Le concierge IA assiste",
+        "description": "Notre IA gère les demandes, questions et recommandations 24/7."
+      },
+      "tasks": {
+        "title": "Tâches créées automatiquement",
+        "description": "Le personnel reçoit automatiquement les missions et notifications."
+      },
+      "track": {
+        "title": "La direction suit tout",
+        "description": "Tableaux de bord en temps réel pour une visibilité complète."
+      }
+    }
+  },
+  "bottomCta": {
+    "title": "Commencez à construire un hôtel plus intelligent aujourd'hui",
+    "subtitle": "Rejoignez les hôteliers visionnaires qui transforment leurs propriétés avec l'IA.",
+    "button": "Demander une démo",
+    "contact": "Contacter les ventes"
+  },
+  "features": {
+    "title": "Des fonctionnalités puissantes pour les hôtels modernes",
+    "subtitle": "Tout ce dont vous avez besoin pour gérer efficacement votre hôtel",
+    "list": {
+      "ai": {
+        "title": "Insights alimentés par l'IA",
+        "description": "Exploitez l'intelligence artificielle pour optimiser les prix, prévoir la demande et personnaliser l'expérience client."
+      },
+      "booking": {
+        "title": "Gestion intelligente des réservations",
+        "description": "Gérez les réservations sur tous les canaux avec notre système de réservation intelligent."
+      },
+      "guest": {
+        "title": "Plateforme d'expérience client",
+        "description": "Ravissez vos clients avec des services personnalisés et une communication fluide."
+      },
+      "analytics": {
+        "title": "Analytique avancée",
+        "description": "Obtenez des insights exploitables avec des tableaux de bord en temps réel et des rapports complets."
+      },
+      "staff": {
+        "title": "Gestion du personnel",
+        "description": "Planifiez, suivez et gérez efficacement votre équipe avec nos outils de gestion."
+      },
+      "integration": {
+        "title": "Intégrations transparentes",
+        "description": "Connectez-vous à vos outils existants, y compris PMS, CRM et systèmes de paiement."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Tarification simple et transparente",
+    "subtitle": "Choisissez le plan adapté aux besoins de votre hôtel",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "perMonth": "/mois",
+    "plans": {
+      "starter": {
+        "name": "Débutant",
+        "price": "99€",
+        "description": "Parfait pour les petits hôtels boutique",
+        "features": [
+          "Jusqu'à 50 chambres",
+          "Analytique de base",
+          "Support par email",
+          "1 compte utilisateur"
+        ]
+      },
+      "professional": {
+        "name": "Professionnel",
+        "price": "299€",
+        "description": "Pour les hôtels en croissance",
+        "features": [
+          "Jusqu'à 200 chambres",
+          "Analytique avancée",
+          "Support prioritaire",
+          "5 comptes utilisateurs",
+          "Accès API"
+        ]
+      },
+      "enterprise": {
+        "name": "Entreprise",
+        "price": "Sur mesure",
+        "description": "Pour les grandes chaînes hôtelières",
+        "features": [
+          "Chambres illimitées",
+          "Modèles IA personnalisés",
+          "Support dédié 24/7",
+          "Utilisateurs illimités",
+          "Intégrations personnalisées"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Des questions? Nous serions ravis de vous entendre.",
+    "form": {
+      "name": "Votre nom",
+      "email": "Adresse email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "submit": "Envoyer le message"
+    },
+    "info": {
+      "email": "info@proinvestglobal.com",
+      "phone": "+44 7448 810068",
+      "address": "2 Frederick Street, Kings Cross, Londres, WC1X 0ND, Royaume-Uni"
+    }
+  },
+  "affiliate": {
+    "title": "Devenez partenaire",
+    "subtitle": "Rejoignez notre programme d'affiliation et gagnez des commissions",
+    "benefits": {
+      "title": "Avantages du programme",
+      "list": [
+        "Taux de commission compétitifs",
+        "Paiements mensuels",
+        "Support partenaire dédié",
+        "Matériel marketing fourni",
+        "Tableau de bord de suivi en temps réel"
+      ]
+    },
+    "howItWorks": {
+      "title": "Comment ça marche",
+      "steps": [
+        {
+          "title": "Inscrivez-vous",
+          "description": "Inscrivez-vous à notre programme d'affiliation (bientôt disponible)"
+        },
+        {
+          "title": "Partagez",
+          "description": "Partagez votre lien de parrainage unique avec des clients potentiels"
+        },
+        {
+          "title": "Gagnez",
+          "description": "Gagnez des commissions sur chaque parrainage réussi"
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "Enregistrez votre hôtel",
+    "subtitle": "Commencez avec Hotel AI SaaS",
+    "form": {
+      "hotelName": "Nom de l'hôtel",
+      "location": "Emplacement",
+      "email": "Email de contact",
+      "phone": "Numéro de téléphone",
+      "submit": "Soumettre l'inscription"
+    },
+    "success": "Inscription soumise avec succès! Nous vous contacterons bientôt.",
+    "pending": "Votre inscription est en attente de révision."
+  },
+  "cta": {
+    "title": "Prêt à transformer votre hôtel?",
+    "subtitle": "Rejoignez des milliers d'hôtels qui utilisent déjà notre plateforme.",
+    "button": "Commencez aujourd'hui"
+  }
+}

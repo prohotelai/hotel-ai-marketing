@@ -1,0 +1,150 @@
+{
+  "hero": {
+    "title": "一体化AI驱动酒店操作系统",
+    "subtitle": "现代化云端酒店平台，提供全天候AI语音和聊天助手、多语言支持、完整PMS集成、自动化工作流程，以及基于您酒店知识的定制AI培训。",
+    "trustHint": "专为独立酒店和酒店集团打造",
+    "cta": {
+      "primary": "申请演示",
+      "secondary": "探索平台"
+    }
+  },
+  "features": {
+    "title": "现代酒店的强大功能",
+    "subtitle": "高效管理酒店所需的一切",
+    "list": {
+      "ai": {
+        "title": "AI驱动的洞察",
+        "description": "利用人工智能优化定价、预测需求并个性化宾客体验。"
+      },
+      "booking": {
+        "title": "智能预订管理",
+        "description": "通过我们的智能预订系统管理所有渠道的预订。"
+      },
+      "guest": {
+        "title": "宾客体验平台",
+        "description": "通过个性化服务和无缝沟通取悦您的宾客。"
+      },
+      "analytics": {
+        "title": "高级分析",
+        "description": "通过实时仪表板和全面报告获得可操作的洞察。"
+      },
+      "staff": {
+        "title": "员工管理",
+        "description": "使用我们的劳动力工具高效地安排、跟踪和管理您的团队。"
+      },
+      "integration": {
+        "title": "无缝集成",
+        "description": "连接您现有的工具，包括PMS、CRM和支付系统。"
+      }
+    }
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "subtitle": "选择适合您酒店需求的方案",
+    "monthly": "月付",
+    "yearly": "年付",
+    "perMonth": "/月",
+    "plans": {
+      "starter": {
+        "name": "入门版",
+        "price": "$99",
+        "description": "适合小型精品酒店",
+        "features": [
+          "最多50间客房",
+          "基础分析",
+          "电子邮件支持",
+          "1个用户账户"
+        ]
+      },
+      "professional": {
+        "name": "专业版",
+        "price": "$299",
+        "description": "适合成长中的酒店",
+        "features": [
+          "最多200间客房",
+          "高级分析",
+          "优先支持",
+          "5个用户账户",
+          "API访问"
+        ]
+      },
+      "enterprise": {
+        "name": "企业版",
+        "price": "定制",
+        "description": "适合大型连锁酒店",
+        "features": [
+          "无限客房",
+          "定制AI模型",
+          "24/7专属支持",
+          "无限用户",
+          "定制集成"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有问题吗？我们很乐意听取您的意见。",
+    "form": {
+      "name": "您的姓名",
+      "email": "电子邮件地址",
+      "subject": "主题",
+      "message": "您的留言",
+      "submit": "发送消息"
+    },
+    "info": {
+      "email": "hello@hotelaissas.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Hotel Street, Tech City, TC 12345"
+    }
+  },
+  "affiliate": {
+    "title": "与我们合作",
+    "subtitle": "加入我们的联盟计划，赚取佣金",
+    "benefits": {
+      "title": "合作伙伴福利",
+      "list": [
+        "有竞争力的佣金率",
+        "月度付款",
+        "专属合作伙伴支持",
+        "提供营销材料",
+        "实时跟踪仪表板"
+      ]
+    },
+    "howItWorks": {
+      "title": "如何运作",
+      "steps": [
+        {
+          "title": "注册",
+          "description": "注册我们的联盟计划（即将推出）"
+        },
+        {
+          "title": "分享",
+          "description": "与潜在客户分享您的专属推荐链接"
+        },
+        {
+          "title": "赚取",
+          "description": "每次成功推荐都可获得佣金"
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "注册您的酒店",
+    "subtitle": "开始使用Hotel AI SaaS",
+    "form": {
+      "hotelName": "酒店名称",
+      "location": "位置",
+      "email": "联系邮箱",
+      "phone": "电话号码",
+      "submit": "提交注册"
+    },
+    "success": "注册提交成功！我们会尽快与您联系。",
+    "pending": "您的注册正在审核中。"
+  },
+  "cta": {
+    "title": "准备好改变您的酒店了吗？",
+    "subtitle": "加入数千家已使用我们平台的酒店。",
+    "button": "立即开始"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "hero": {
+    "title": "An All-in-One AI-Powered Hotel Operating System",
+    "subtitle": "A modern cloud-based platform for hotels, delivering AI chat and voice assistants for guests 24/7, multilingual support, full PMS integration, automation workflows, and custom AI training based on your property's knowledge.",
+    "trustHint": "Built for independent hotels and hotel groups",
+    "cta": {
+      "primary": "Request Demo",
+      "secondary": "Explore Platform"
+    }
+  },
+  "valueOwners": {
+    "title": "Built for Hotel Owners & Investors",
+    "subtitle": "Maximize property value through operational intelligence and automated revenue optimization.",
+    "cards": {
+      "revenue": {
+        "title": "Revenue Optimization",
+        "description": "AI-powered pricing engine and upsell automation that increases RevPAR by an average of 18% within 90 days.",
+        "icon": "trending-up"
+      },
+      "costs": {
+        "title": "Cost Reduction",
+        "description": "Automate 60% of routine operations. Reduce labor costs while maintaining service quality through intelligent workflows.",
+        "icon": "chart-down"
+      },
+      "insights": {
+        "title": "Real-Time Intelligence",
+        "description": "Unified dashboard with P&L forecasting, occupancy analytics, and revenue attribution across all channels.",
+        "icon": "chart-bar"
+      },
+      "control": {
+        "title": "Portfolio Management",
+        "description": "Single pane of glass for multi-property oversight. Property-level customization with chain-wide consistency.",
+        "icon": "building"
+      }
+    }
+  },
+  "valueStaff": {
+    "title": "Operations That Scale",
+    "subtitle": "Give your team enterprise-grade tools that eliminate busywork and amplify their impact.",
+    "cards": {
+      "dashboard": {
+        "title": "Unified Workspace",
+        "description": "Single dashboard for reservations, housekeeping, maintenance, and guest services. No app-switching, no data silos.",
+        "icon": "layout-dashboard"
+      },
+      "automation": {
+        "title": "Intelligent Automation",
+        "description": "Automatic task routing, smart scheduling, and AI-assisted responses. Your team handles exceptions, not repetition.",
+        "icon": "zap"
+      },
+      "requests": {
+        "title": "Request Management",
+        "description": "Every guest request tracked, prioritized, and routed to the right person. Real-time SLA monitoring and escalation.",
+        "icon": "check-circle"
+      },
+      "reports": {
+        "title": "Operational Visibility",
+        "description": "Live metrics on staff productivity, guest satisfaction, task completion rates, and service bottlenecks.",
+        "icon": "clipboard-list"
+      }
+    }
+  },
+  "valueGuests": {
+    "title": "Guest Experience That Differentiates",
+    "subtitle": "Deliver consistent, personalized service at scale with AI-powered guest intelligence.",
+    "cards": {
+      "concierge": {
+        "title": "AI Concierge Platform",
+        "description": "Voice and chat assistant trained on your property. Handles requests, recommendations, and bookings 24/7 in 40+ languages.",
+        "icon": "message-circle"
+      },
+      "multilang": {
+        "title": "Global Language Coverage",
+        "description": "Real-time translation and cultural adaptation. Guests communicate naturally in their preferred language, always.",
+        "icon": "globe"
+      },
+      "contactless": {
+        "title": "Digital-First Services",
+        "description": "Mobile check-in, digital keys, in-room controls, and request management. Modern convenience with security built-in.",
+        "icon": "smartphone"
+      },
+      "satisfaction": {
+        "title": "Predictive Satisfaction",
+        "description": "Real-time sentiment analysis identifies issues before they become problems. Proactive service recovery drives loyalty.",
+        "icon": "star"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Platform Architecture",
+    "subtitle": "Enterprise-grade infrastructure designed for reliability, scale, and security.",
+    "steps": {
+      "book": {
+        "title": "Guest Touchpoint",
+        "description": "Booking engine, QR access points, and mobile app provide seamless entry to your property ecosystem."
+      },
+      "assist": {
+        "title": "AI Orchestration Layer",
+        "description": "Intelligent routing, natural language processing, and knowledge base deliver instant, accurate responses across all channels."
+      },
+      "tasks": {
+        "title": "Workflow Automation",
+        "description": "Rules engine creates tasks, assigns resources, tracks SLAs, and escalates exceptions without manual intervention."
+      },
+      "track": {
+        "title": "Analytics & Intelligence",
+        "description": "Real-time dashboards, predictive analytics, and operational metrics provide complete visibility and actionable insights."
+      }
+    }
+  },
+  "bottomCta": {
+    "title": "Ready to Transform Your Operations?",
+    "subtitle": "Join properties that have reduced costs by 40% while improving guest satisfaction scores.",
+    "button": "Start 14-Day Trial",
+    "contact": "Schedule Demo",
+    "note": "No credit card required • Full platform access • White-glove onboarding"
+  },
+  "features": {
+    "title": "Powerful Features for Modern Hotels",
+    "subtitle": "Everything you need to manage your hotel efficiently",
+    "list": {
+      "ai": {
+        "title": "AI-Powered Insights",
+        "description": "Leverage artificial intelligence to optimize pricing, predict demand, and personalize guest experiences."
+      },
+      "booking": {
+        "title": "Smart Booking Management",
+        "description": "Manage reservations across all channels with our intelligent booking system."
+      },
+      "guest": {
+        "title": "Guest Experience Platform",
+        "description": "Delight your guests with personalized services and seamless communication."
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "description": "Get actionable insights with real-time dashboards and comprehensive reports."
+      },
+      "staff": {
+        "title": "Staff Management",
+        "description": "Schedule, track, and manage your team efficiently with our workforce tools."
+      },
+      "integration": {
+        "title": "Seamless Integrations",
+        "description": "Connect with your existing tools including PMS, CRM, and payment systems."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your hotel's needs",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "perMonth": "/month",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$99",
+        "description": "Perfect for small boutique hotels",
+        "features": [
+          "Up to 50 rooms",
+          "Basic analytics",
+          "Email support",
+          "1 user account"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "price": "$299",
+        "description": "For growing hotels",
+        "features": [
+          "Up to 200 rooms",
+          "Advanced analytics",
+          "Priority support",
+          "5 user accounts",
+          "API access"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "description": "For large hotel chains",
+        "features": [
+          "Unlimited rooms",
+          "Custom AI models",
+          "24/7 dedicated support",
+          "Unlimited users",
+          "Custom integrations"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "email": "info@proinvestglobal.com",
+      "phone": "+44 7448 810068",
+      "address": "2 Frederick Street, Kings Cross, London, WC1X 0ND, UK"
+    }
+  },
+  "affiliate": {
+    "title": "Partner With Us",
+    "subtitle": "Join our affiliate program and earn commissions",
+    "benefits": {
+      "title": "Affiliate Benefits",
+      "list": [
+        "Competitive commission rates",
+        "Monthly payouts",
+        "Dedicated partner support",
+        "Marketing materials provided",
+        "Real-time tracking dashboard"
+      ]
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "steps": [
+        {
+          "title": "Sign Up",
+          "description": "Register for our affiliate program (coming soon)"
+        },
+        {
+          "title": "Share",
+          "description": "Share your unique referral link with potential customers"
+        },
+        {
+          "title": "Earn",
+          "description": "Earn commissions on every successful referral"
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "Register Your Hotel",
+    "subtitle": "Get started with Hotel AI SaaS",
+    "form": {
+      "hotelName": "Hotel Name",
+      "location": "Location",
+      "email": "Contact Email",
+      "phone": "Phone Number",
+      "submit": "Submit Registration"
+    },
+    "success": "Registration submitted successfully! We will contact you soon.",
+    "pending": "Your registration is pending review."
+  },
+  "cta": {
+    "title": "Ready to Transform Your Hotel?",
+    "subtitle": "Join thousands of hotels already using our platform.",
+    "button": "Get Started Today"
+  }
+}

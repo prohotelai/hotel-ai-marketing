@@ -1,0 +1,49 @@
+{
+  "appName": "Hotel AI SaaS",
+  "nav": {
+    "home": "首页",
+    "features": "功能",
+    "pricing": "价格",
+    "contact": "联系我们",
+    "affiliate": "合作伙伴",
+    "register": "注册"
+  },
+  "footer": {
+    "description": "现代酒店的完整SaaS解决方案。通过AI优化运营并增加收入。",
+    "copyright": "© 2024 ProInvest Global. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "howItWorks": "工作原理",
+    "careers": "招聘",
+    "sections": {
+      "product": "产品",
+      "company": "公司",
+      "legal": "法律"
+    },
+    "company": {
+      "name": "ProInvest Global",
+      "address": "2 Frederick Street, Kings Cross",
+      "city": "伦敦, WC1X 0ND, 英国",
+      "phone": "+44 7448 810068",
+      "email": "info@proinvestglobal.com"
+    }
+  },
+  "buttons": {
+    "submit": "提交",
+    "cancel": "取消",
+    "learnMore": "了解更多",
+    "getStarted": "开始使用",
+    "contactUs": "联系我们"
+  },
+  "form": {
+    "required": "此字段为必填项",
+    "invalidEmail": "请输入有效的电子邮件",
+    "invalidPhone": "请输入有效的电话号码",
+    "success": "表单提交成功",
+    "error": "发生错误，请重试。"
+  },
+  "language": {
+    "select": "语言",
+    "current": "当前语言"
+  }
+}

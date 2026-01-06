@@ -1,0 +1,21 @@
+{
+  "publicPage": {
+    "welcome": "Welcome to",
+    "guestAccess": "Guest Access",
+    "staffLogin": "Staff Login",
+    "scanQr": "Scan QR Code",
+    "qrDescription": "Scan this QR code to access this hotel's page"
+  },
+  "guest": {
+    "title": "Guest Portal",
+    "subtitle": "Access hotel services and information"
+  },
+  "staff": {
+    "title": "Staff Portal",
+    "subtitle": "Staff login area"
+  },
+  "notFound": {
+    "title": "Hotel Not Found",
+    "description": "The hotel you are looking for does not exist or the link is invalid."
+  }
+}

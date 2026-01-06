@@ -1,0 +1,21 @@
+{
+  "publicPage": {
+    "welcome": "Willkommen bei",
+    "guestAccess": "Gästezugang",
+    "staffLogin": "Personal-Login",
+    "scanQr": "QR-Code scannen",
+    "qrDescription": "Scannen Sie diesen QR-Code, um auf die Hotelseite zuzugreifen"
+  },
+  "guest": {
+    "title": "Gästeportal",
+    "subtitle": "Zugang zu Hotelservices und Informationen"
+  },
+  "staff": {
+    "title": "Personalportal",
+    "subtitle": "Personal-Login-Bereich"
+  },
+  "notFound": {
+    "title": "Hotel nicht gefunden",
+    "description": "Das gesuchte Hotel existiert nicht oder der Link ist ungültig."
+  }
+}

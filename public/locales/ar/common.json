@@ -1,0 +1,49 @@
+{
+  "appName": "فندق AI SaaS",
+  "nav": {
+    "home": "الرئيسية",
+    "features": "المميزات",
+    "pricing": "الأسعار",
+    "contact": "اتصل بنا",
+    "affiliate": "التسويق بالعمولة",
+    "register": "تسجيل"
+  },
+  "footer": {
+    "description": "الحل الشامل SaaS للفنادق الحديثة. قم بتبسيط العمليات وتعزيز تجارب الضيوف وزيادة الإيرادات مع رؤى مدعومة بالذكاء الاصطناعي.",
+    "copyright": "© 2024 ProInvest Global. جميع الحقوق محفوظة.",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "howItWorks": "كيف يعمل",
+    "careers": "الوظائف",
+    "sections": {
+      "product": "المنتج",
+      "company": "الشركة",
+      "legal": "قانوني"
+    },
+    "company": {
+      "name": "ProInvest Global",
+      "address": "2 فريدريك ستريت، كينغز كروس",
+      "city": "لندن، WC1X 0ND، المملكة المتحدة",
+      "phone": "+44 7448 810068",
+      "email": "info@proinvestglobal.com"
+    }
+  },
+  "buttons": {
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "learnMore": "اعرف المزيد",
+    "getStarted": "ابدأ الآن",
+    "contactUs": "اتصل بنا"
+  },
+  "form": {
+    "required": "هذا الحقل مطلوب",
+    "invalidEmail": "يرجى إدخال بريد إلكتروني صالح",
+    "invalidPhone": "يرجى إدخال رقم هاتف صالح",
+    "success": "تم إرسال النموذج بنجاح",
+    "error": "حدث خطأ. يرجى المحاولة مرة أخرى."
+  },
+  "language": {
+    "select": "اللغة",
+    "current": "اللغة الحالية"
+  }
+}

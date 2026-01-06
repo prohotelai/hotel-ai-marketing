@@ -1,0 +1,49 @@
+{
+  "appName": "Hotel AI SaaS",
+  "nav": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "pricing": "Fiyatlar",
+    "contact": "İletişim",
+    "affiliate": "Ortaklık",
+    "register": "Kayıt Ol"
+  },
+  "footer": {
+    "description": "Modern oteller için eksiksiz SaaS çözümü. Operasyonları optimize edin ve AI ile geliri artırın.",
+    "copyright": "© 2024 ProInvest Global. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "howItWorks": "Nasıl Çalışır",
+    "careers": "Kariyer",
+    "sections": {
+      "product": "Ürün",
+      "company": "Şirket",
+      "legal": "Yasal"
+    },
+    "company": {
+      "name": "ProInvest Global",
+      "address": "2 Frederick Street, Kings Cross",
+      "city": "Londra, WC1X 0ND, Birleşik Krallık",
+      "phone": "+44 7448 810068",
+      "email": "info@proinvestglobal.com"
+    }
+  },
+  "buttons": {
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "learnMore": "Daha Fazla Bilgi",
+    "getStarted": "Başla",
+    "contactUs": "Bize Ulaşın"
+  },
+  "form": {
+    "required": "Bu alan zorunludur",
+    "invalidEmail": "Geçerli bir e-posta girin",
+    "invalidPhone": "Geçerli bir telefon numarası girin",
+    "success": "Form başarıyla gönderildi",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "language": {
+    "select": "Dil",
+    "current": "Mevcut dil"
+  }
+}

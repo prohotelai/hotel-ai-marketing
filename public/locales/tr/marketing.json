@@ -1,0 +1,150 @@
+{
+  "hero": {
+    "title": "Yapay Zeka Destekli Hepsi Bir Arada Otel İşletim Sistemi",
+    "subtitle": "Oteller için modern bulut tabanlı platform. 7/24 yapay zeka sohbet ve sesli asistanlar, çok dilli destek, tam PMS entegrasyonu, otomasyon iş akışları ve mülkünüzün bilgisine dayalı özel yapay zeka eğitimi sunar.",
+    "trustHint": "Bağımsız oteller ve otel grupları için tasarlandı",
+    "cta": {
+      "primary": "Demo Talep Et",
+      "secondary": "Platformu Keşfet"
+    }
+  },
+  "features": {
+    "title": "Modern Oteller için Güçlü Özellikler",
+    "subtitle": "Otelinizi verimli bir şekilde yönetmek için ihtiyacınız olan her şey",
+    "list": {
+      "ai": {
+        "title": "Yapay Zeka Destekli Analizler",
+        "description": "Fiyatlandırmayı optimize etmek, talebi tahmin etmek ve misafir deneyimlerini kişiselleştirmek için yapay zekadan yararlanın."
+      },
+      "booking": {
+        "title": "Akıllı Rezervasyon Yönetimi",
+        "description": "Akıllı rezervasyon sistemimizle tüm kanallardaki rezervasyonları yönetin."
+      },
+      "guest": {
+        "title": "Misafir Deneyimi Platformu",
+        "description": "Kişiselleştirilmiş hizmetler ve sorunsuz iletişimle misafirlerinizi memnun edin."
+      },
+      "analytics": {
+        "title": "Gelişmiş Analitik",
+        "description": "Gerçek zamanlı panolar ve kapsamlı raporlarla eyleme geçirilebilir içgörüler elde edin."
+      },
+      "staff": {
+        "title": "Personel Yönetimi",
+        "description": "İş gücü araçlarımızla ekibinizi verimli bir şekilde planlayın, takip edin ve yönetin."
+      },
+      "integration": {
+        "title": "Sorunsuz Entegrasyonlar",
+        "description": "PMS, CRM ve ödeme sistemleri dahil mevcut araçlarınıza bağlanın."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Basit, Şeffaf Fiyatlandırma",
+    "subtitle": "Otelinizin ihtiyaçlarına uygun planı seçin",
+    "monthly": "Aylık",
+    "yearly": "Yıllık",
+    "perMonth": "/ay",
+    "plans": {
+      "starter": {
+        "name": "Başlangıç",
+        "price": "$99",
+        "description": "Küçük butik oteller için mükemmel",
+        "features": [
+          "50 odaya kadar",
+          "Temel analitik",
+          "E-posta desteği",
+          "1 kullanıcı hesabı"
+        ]
+      },
+      "professional": {
+        "name": "Profesyonel",
+        "price": "$299",
+        "description": "Büyüyen oteller için",
+        "features": [
+          "200 odaya kadar",
+          "Gelişmiş analitik",
+          "Öncelikli destek",
+          "5 kullanıcı hesabı",
+          "API erişimi"
+        ]
+      },
+      "enterprise": {
+        "name": "Kurumsal",
+        "price": "Özel",
+        "description": "Büyük otel zincirleri için",
+        "features": [
+          "Sınırsız oda",
+          "Özel AI modelleri",
+          "7/24 özel destek",
+          "Sınırsız kullanıcı",
+          "Özel entegrasyonlar"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Sorularınız mı var? Sizden haber almak isteriz.",
+    "form": {
+      "name": "Adınız",
+      "email": "E-posta Adresi",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Mesaj Gönder"
+    },
+    "info": {
+      "email": "hello@hotelaissas.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Hotel Sokak, Tech City, TC 12345"
+    }
+  },
+  "affiliate": {
+    "title": "Ortağımız Olun",
+    "subtitle": "Ortaklık programımıza katılın ve komisyon kazanın",
+    "benefits": {
+      "title": "Ortaklık Avantajları",
+      "list": [
+        "Rekabetçi komisyon oranları",
+        "Aylık ödemeler",
+        "Özel ortak desteği",
+        "Pazarlama materyalleri sağlanır",
+        "Gerçek zamanlı takip paneli"
+      ]
+    },
+    "howItWorks": {
+      "title": "Nasıl Çalışır",
+      "steps": [
+        {
+          "title": "Kaydolun",
+          "description": "Ortaklık programımıza kaydolun (yakında)"
+        },
+        {
+          "title": "Paylaşın",
+          "description": "Benzersiz referans linkinizi potansiyel müşterilerle paylaşın"
+        },
+        {
+          "title": "Kazanın",
+          "description": "Her başarılı referansta komisyon kazanın"
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "Otelinizi Kaydedin",
+    "subtitle": "Hotel AI SaaS ile başlayın",
+    "form": {
+      "hotelName": "Otel Adı",
+      "location": "Konum",
+      "email": "İletişim E-postası",
+      "phone": "Telefon Numarası",
+      "submit": "Kaydı Gönder"
+    },
+    "success": "Kayıt başarıyla gönderildi! En kısa sürede sizinle iletişime geçeceğiz.",
+    "pending": "Kaydınız inceleme aşamasında."
+  },
+  "cta": {
+    "title": "Otelinizi Dönüştürmeye Hazır mısınız?",
+    "subtitle": "Platformumuzu kullanan binlerce otele katılın.",
+    "button": "Bugün Başlayın"
+  }
+}

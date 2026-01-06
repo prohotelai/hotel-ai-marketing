@@ -1,0 +1,212 @@
+{
+  "hero": {
+    "title": "Ein All-in-One KI-gestütztes Hotel-Betriebssystem",
+    "subtitle": "Eine moderne Cloud-Plattform für Hotels mit KI-Chat- und Sprachassistenten für Gäste rund um die Uhr, mehrsprachiger Unterstützung, vollständiger PMS-Integration, Automatisierungs-Workflows und benutzerdefiniertem KI-Training basierend auf dem Wissen Ihrer Unterkunft.",
+    "trustHint": "Entwickelt für unabhängige Hotels und Hotelgruppen",
+    "cta": {
+      "primary": "Demo anfordern",
+      "secondary": "Plattform erkunden"
+    }
+  },
+  "valueOwners": {
+    "title": "Für Hotelbesitzer & Investoren entwickelt",
+    "subtitle": "Maximieren Sie das Potenzial Ihrer Immobilie mit intelligenten Tools für Rentabilität und Wachstum.",
+    "cards": {
+      "revenue": {
+        "title": "Umsatz mit KI-Preisgestaltung steigern",
+        "description": "Dynamische Preisgestaltung und intelligente Upselling-Empfehlungen zur Maximierung Ihres RevPAR."
+      },
+      "costs": {
+        "title": "Betriebskosten senken",
+        "description": "Automatisieren Sie Routineaufgaben und optimieren Sie die Ressourcenallokation."
+      },
+      "insights": {
+        "title": "Echtzeit-Finanzeinblicke",
+        "description": "Umfassende Dashboards und Prognosetools für vollständige Transparenz."
+      },
+      "control": {
+        "title": "Multi-Property-Kontrolle",
+        "description": "Zentralisierte Verwaltung für Hotelketten mit Anpassung auf Objektebene."
+      }
+    }
+  },
+  "valueStaff": {
+    "title": "Hotelteams stärken",
+    "subtitle": "Geben Sie Ihren Mitarbeitern die Werkzeuge für außergewöhnlichen Service.",
+    "cards": {
+      "dashboard": {
+        "title": "Einheitliches Operations-Dashboard",
+        "description": "Eine Plattform für Reservierungen, Housekeeping, Abrechnung und Gästemanagement."
+      },
+      "automation": {
+        "title": "Automatisierte Aufgaben & KI-Assistenz",
+        "description": "Lassen Sie KI Routineaufgaben erledigen, damit Ihr Team sich auf Gästeerlebnisse konzentrieren kann."
+      },
+      "requests": {
+        "title": "Schnellere Bearbeitung von Gästeanfragen",
+        "description": "Optimiertes Anfragenmanagement für zufriedene Gäste."
+      },
+      "reports": {
+        "title": "Integrierte Berichte & Transparenz",
+        "description": "Klare Einblicke in Abläufe, Mitarbeiterleistung und Gästezufriedenheit."
+      }
+    }
+  },
+  "valueGuests": {
+    "title": "Ein intelligenterer Aufenthalt für Ihre Gäste",
+    "subtitle": "Begeistern Sie jeden Gast mit personalisierten, nahtlosen KI-gestützten Erlebnissen.",
+    "cards": {
+      "concierge": {
+        "title": "24/7 KI-Concierge",
+        "description": "Sprach- und Chat-Assistent rund um die Uhr für alle Gästeanfragen."
+      },
+      "multilang": {
+        "title": "Mehrsprachiger Support",
+        "description": "Kommunizieren Sie mit Gästen in ihrer bevorzugten Sprache."
+      },
+      "contactless": {
+        "title": "Kontaktlose Services",
+        "description": "Mobiler Check-in, digitale Zimmerschlüssel und kontaktlose Anfragen."
+      },
+      "satisfaction": {
+        "title": "Höhere Gästezufriedenheit",
+        "description": "Schnellere Antworten und personalisierter Service für bessere Bewertungen."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "So funktioniert es",
+    "subtitle": "Einfache Einrichtung, leistungsstarke Ergebnisse.",
+    "steps": {
+      "book": {
+        "title": "Gast bucht oder scannt QR",
+        "description": "Gäste reservieren online oder scannen QR-Codes für sofortigen Zugang."
+      },
+      "assist": {
+        "title": "KI-Concierge assistiert",
+        "description": "Unsere KI bearbeitet Anfragen, Fragen und Empfehlungen 24/7."
+      },
+      "tasks": {
+        "title": "Aufgaben automatisch erstellt",
+        "description": "Mitarbeiter erhalten automatisch Aufgaben und Benachrichtigungen."
+      },
+      "track": {
+        "title": "Management verfolgt alles",
+        "description": "Echtzeit-Dashboards für vollständige Transparenz."
+      }
+    }
+  },
+  "bottomCta": {
+    "title": "Beginnen Sie heute mit dem Aufbau eines intelligenteren Hotels",
+    "subtitle": "Schließen Sie sich zukunftsorientierten Hoteliers an, die ihre Immobilien mit KI transformieren.",
+    "button": "Demo anfordern",
+    "contact": "Vertrieb kontaktieren"
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen für moderne Hotels",
+    "subtitle": "Alles, was Sie für effizientes Hotelmanagement benötigen",
+    "list": {
+      "ai": {
+        "title": "KI-gestützte Einblicke",
+        "description": "Nutzen Sie künstliche Intelligenz zur Preisoptimierung und Personalisierung."
+      },
+      "booking": {
+        "title": "Intelligentes Buchungsmanagement",
+        "description": "Verwalten Sie Reservierungen über alle Kanäle."
+      },
+      "guest": {
+        "title": "Gästeerlebnis-Plattform",
+        "description": "Begeistern Sie Gäste mit personalisierten Services."
+      },
+      "analytics": {
+        "title": "Erweiterte Analytik",
+        "description": "Echtzeit-Dashboards und umfassende Berichte."
+      },
+      "staff": {
+        "title": "Personalverwaltung",
+        "description": "Planen und verwalten Sie Ihr Team effizient."
+      },
+      "integration": {
+        "title": "Nahtlose Integrationen",
+        "description": "Verbinden Sie sich mit PMS, CRM und Zahlungssystemen."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Einfache, transparente Preisgestaltung",
+    "subtitle": "Wählen Sie den Plan, der zu Ihrem Hotel passt",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "perMonth": "/Monat",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "99€",
+        "description": "Perfekt für kleine Boutique-Hotels",
+        "features": ["Bis zu 50 Zimmer", "Basis-Analytik", "E-Mail-Support", "1 Benutzerkonto"]
+      },
+      "professional": {
+        "name": "Professional",
+        "price": "299€",
+        "description": "Für wachsende Hotels",
+        "features": ["Bis zu 200 Zimmer", "Erweiterte Analytik", "Prioritäts-Support", "5 Benutzerkonten", "API-Zugang"]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Individuell",
+        "description": "Für große Hotelketten",
+        "features": ["Unbegrenzte Zimmer", "Individuelle KI-Modelle", "24/7 Support", "Unbegrenzte Benutzer", "Individuelle Integrationen"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Haben Sie Fragen? Wir freuen uns von Ihnen zu hören.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht senden"
+    },
+    "info": {
+      "email": "info@proinvestglobal.com",
+      "phone": "+44 7448 810068",
+      "address": "2 Frederick Street, Kings Cross, London, WC1X 0ND, UK"
+    }
+  },
+  "affiliate": {
+    "title": "Partner werden",
+    "subtitle": "Treten Sie unserem Partnerprogramm bei",
+    "benefits": {
+      "title": "Partnervorteile",
+      "list": ["Wettbewerbsfähige Provisionen", "Monatliche Auszahlungen", "Dedizierter Partner-Support", "Marketing-Materialien", "Echtzeit-Tracking"]
+    },
+    "howItWorks": {
+      "title": "So funktioniert es",
+      "steps": [
+        {"title": "Registrieren", "description": "Für unser Partnerprogramm anmelden"},
+        {"title": "Teilen", "description": "Ihren Empfehlungslink teilen"},
+        {"title": "Verdienen", "description": "Provisionen für erfolgreiche Empfehlungen verdienen"}
+      ]
+    }
+  },
+  "register": {
+    "title": "Registrieren Sie Ihr Hotel",
+    "subtitle": "Starten Sie mit Hotel AI SaaS",
+    "form": {
+      "hotelName": "Hotelname",
+      "location": "Standort",
+      "email": "Kontakt-E-Mail",
+      "phone": "Telefonnummer",
+      "submit": "Registrierung absenden"
+    },
+    "success": "Registrierung erfolgreich eingereicht!",
+    "pending": "Ihre Registrierung wird überprüft."
+  },
+  "cta": {
+    "title": "Bereit, Ihr Hotel zu transformieren?",
+    "subtitle": "Schließen Sie sich tausenden Hotels an.",
+    "button": "Heute starten"
+  }
+}

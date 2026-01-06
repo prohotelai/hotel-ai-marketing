@@ -1,0 +1,21 @@
+{
+  "publicPage": {
+    "welcome": "欢迎来到",
+    "guestAccess": "宾客入口",
+    "staffLogin": "员工登录",
+    "scanQr": "扫描二维码",
+    "qrDescription": "扫描此二维码访问酒店页面"
+  },
+  "guest": {
+    "title": "宾客门户",
+    "subtitle": "访问酒店服务和信息"
+  },
+  "staff": {
+    "title": "员工门户",
+    "subtitle": "员工登录区"
+  },
+  "notFound": {
+    "title": "酒店未找到",
+    "description": "您查找的酒店不存在或链接无效。"
+  }
+}

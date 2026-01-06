@@ -1,0 +1,150 @@
+{
+  "hero": {
+    "title": "Un sistema operativo alberghiero all-in-one alimentato dall'IA",
+    "subtitle": "Una moderna piattaforma cloud per hotel, che offre assistenti IA vocali e chat per gli ospiti 24/7, supporto multilingue, integrazione PMS completa, workflow automatizzati e addestramento IA personalizzato basato sulla conoscenza della tua struttura.",
+    "trustHint": "Progettato per hotel indipendenti e gruppi alberghieri",
+    "cta": {
+      "primary": "Richiedi demo",
+      "secondary": "Esplora la piattaforma"
+    }
+  },
+  "features": {
+    "title": "Funzionalità potenti per hotel moderni",
+    "subtitle": "Tutto ciò di cui hai bisogno per gestire il tuo hotel in modo efficiente",
+    "list": {
+      "ai": {
+        "title": "Insights basati su IA",
+        "description": "Sfrutta l'intelligenza artificiale per ottimizzare i prezzi, prevedere la domanda e personalizzare le esperienze."
+      },
+      "booking": {
+        "title": "Gestione prenotazioni intelligente",
+        "description": "Gestisci le prenotazioni su tutti i canali con il nostro sistema di prenotazione intelligente."
+      },
+      "guest": {
+        "title": "Piattaforma esperienza ospiti",
+        "description": "Delizia i tuoi ospiti con servizi personalizzati e comunicazione fluida."
+      },
+      "analytics": {
+        "title": "Analytics avanzate",
+        "description": "Ottieni insights azionabili con dashboard in tempo reale e report completi."
+      },
+      "staff": {
+        "title": "Gestione del personale",
+        "description": "Pianifica, traccia e gestisci il tuo team in modo efficiente con i nostri strumenti."
+      },
+      "integration": {
+        "title": "Integrazioni seamless",
+        "description": "Collegati ai tuoi strumenti esistenti inclusi PMS, CRM e sistemi di pagamento."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Prezzi semplici e trasparenti",
+    "subtitle": "Scegli il piano adatto alle esigenze del tuo hotel",
+    "monthly": "Mensile",
+    "yearly": "Annuale",
+    "perMonth": "/mese",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "€99",
+        "description": "Perfetto per piccoli hotel boutique",
+        "features": [
+          "Fino a 50 camere",
+          "Analytics di base",
+          "Supporto email",
+          "1 account utente"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "price": "€299",
+        "description": "Per hotel in crescita",
+        "features": [
+          "Fino a 200 camere",
+          "Analytics avanzate",
+          "Supporto prioritario",
+          "5 account utente",
+          "Accesso API"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Personalizzato",
+        "description": "Per grandi catene alberghiere",
+        "features": [
+          "Camere illimitate",
+          "Modelli IA personalizzati",
+          "Supporto dedicato 24/7",
+          "Utenti illimitati",
+          "Integrazioni personalizzate"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Hai domande? Ci farebbe piacere sentirti.",
+    "form": {
+      "name": "Il tuo nome",
+      "email": "Indirizzo email",
+      "subject": "Oggetto",
+      "message": "Il tuo messaggio",
+      "submit": "Invia messaggio"
+    },
+    "info": {
+      "email": "hello@hotelaissas.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Via Hotel, Tech City, TC 12345"
+    }
+  },
+  "affiliate": {
+    "title": "Diventa partner",
+    "subtitle": "Unisciti al nostro programma di affiliazione e guadagna commissioni",
+    "benefits": {
+      "title": "Vantaggi per gli affiliati",
+      "list": [
+        "Tassi di commissione competitivi",
+        "Pagamenti mensili",
+        "Supporto partner dedicato",
+        "Materiali marketing forniti",
+        "Dashboard di tracking in tempo reale"
+      ]
+    },
+    "howItWorks": {
+      "title": "Come funziona",
+      "steps": [
+        {
+          "title": "Registrati",
+          "description": "Registrati al nostro programma di affiliazione (prossimamente)"
+        },
+        {
+          "title": "Condividi",
+          "description": "Condividi il tuo link di referral unico con potenziali clienti"
+        },
+        {
+          "title": "Guadagna",
+          "description": "Guadagna commissioni per ogni referral di successo"
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "Registra il tuo hotel",
+    "subtitle": "Inizia con Hotel AI SaaS",
+    "form": {
+      "hotelName": "Nome hotel",
+      "location": "Posizione",
+      "email": "Email di contatto",
+      "phone": "Numero di telefono",
+      "submit": "Invia registrazione"
+    },
+    "success": "Registrazione inviata con successo! Ti contatteremo presto.",
+    "pending": "La tua registrazione è in attesa di revisione."
+  },
+  "cta": {
+    "title": "Pronto a trasformare il tuo hotel?",
+    "subtitle": "Unisciti a migliaia di hotel che già usano la nostra piattaforma.",
+    "button": "Inizia oggi"
+  }
+}

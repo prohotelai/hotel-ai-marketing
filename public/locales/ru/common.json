@@ -1,0 +1,49 @@
+{
+  "appName": "Hotel AI SaaS",
+  "nav": {
+    "home": "Главная",
+    "features": "Функции",
+    "pricing": "Цены",
+    "contact": "Контакты",
+    "affiliate": "Партнёры",
+    "register": "Регистрация"
+  },
+  "footer": {
+    "description": "Полное SaaS решение для современных отелей. Оптимизируйте операции и увеличьте доход с помощью ИИ.",
+    "copyright": "© 2024 ProInvest Global. Все права защищены.",
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия использования",
+    "howItWorks": "Как это работает",
+    "careers": "Карьера",
+    "sections": {
+      "product": "Продукт",
+      "company": "Компания",
+      "legal": "Правовая информация"
+    },
+    "company": {
+      "name": "ProInvest Global",
+      "address": "2 Frederick Street, Kings Cross",
+      "city": "Лондон, WC1X 0ND, Великобритания",
+      "phone": "+44 7448 810068",
+      "email": "info@proinvestglobal.com"
+    }
+  },
+  "buttons": {
+    "submit": "Отправить",
+    "cancel": "Отмена",
+    "learnMore": "Узнать больше",
+    "getStarted": "Начать",
+    "contactUs": "Связаться с нами"
+  },
+  "form": {
+    "required": "Это поле обязательно",
+    "invalidEmail": "Введите корректный email",
+    "invalidPhone": "Введите корректный номер телефона",
+    "success": "Форма успешно отправлена",
+    "error": "Произошла ошибка. Попробуйте снова."
+  },
+  "language": {
+    "select": "Язык",
+    "current": "Текущий язык"
+  }
+}

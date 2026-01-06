@@ -1,0 +1,21 @@
+{
+  "publicPage": {
+    "welcome": "Hoş Geldiniz",
+    "guestAccess": "Misafir Girişi",
+    "staffLogin": "Personel Girişi",
+    "scanQr": "QR Kodu Tara",
+    "qrDescription": "Otelin sayfasına erişmek için bu QR kodunu tarayın"
+  },
+  "guest": {
+    "title": "Misafir Portalı",
+    "subtitle": "Otel hizmetlerine ve bilgilerine erişin"
+  },
+  "staff": {
+    "title": "Personel Portalı",
+    "subtitle": "Personel giriş alanı"
+  },
+  "notFound": {
+    "title": "Otel Bulunamadı",
+    "description": "Aradığınız otel mevcut değil veya bağlantı geçersiz."
+  }
+}

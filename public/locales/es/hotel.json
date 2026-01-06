@@ -1,0 +1,21 @@
+{
+  "publicPage": {
+    "welcome": "Bienvenido a",
+    "guestAccess": "Acceso de huéspedes",
+    "staffLogin": "Inicio de sesión del personal",
+    "scanQr": "Escanear código QR",
+    "qrDescription": "Escanea este código QR para acceder a la página del hotel"
+  },
+  "guest": {
+    "title": "Portal de huéspedes",
+    "subtitle": "Accede a servicios e información del hotel"
+  },
+  "staff": {
+    "title": "Portal del personal",
+    "subtitle": "Área de inicio de sesión del personal"
+  },
+  "notFound": {
+    "title": "Hotel no encontrado",
+    "description": "El hotel que buscas no existe o el enlace es inválido."
+  }
+}

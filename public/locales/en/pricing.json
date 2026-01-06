@@ -1,0 +1,196 @@
+{
+  "title": "Transparent Pricing for Every Hotel",
+  "subtitle": "Simple, predictable credit-based pricing. Scale with confidence.",
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "perMonth": "/month",
+  "creditExplainer": {
+    "title": "How Credits Work",
+    "subtitle": "Credits power your AI operations. Usage is tracked transparently.",
+    "items": [
+      {
+        "label": "AI Chat Messages",
+        "description": "1 credit per guest message",
+        "icon": "message"
+      },
+      {
+        "label": "AI Voice Minutes",
+        "description": "5 credits per minute of voice interaction",
+        "icon": "voice"
+      },
+      {
+        "label": "AI Automation Runs",
+        "description": "10 credits per automated workflow execution",
+        "icon": "automation"
+      }
+    ],
+    "note": "Credits are consumed only when AI features are actively used. No surprises."
+  },
+  "plans": {
+    "starter": {
+      "name": "Starter",
+      "price": "$199",
+      "description": "For boutique hotels",
+      "tagline": "Perfect for testing AI guest services",
+      "credits": "1,000 AI credits/month",
+      "badge": "",
+      "whoThisIsFor": "Boutique hotels (10-50 rooms) exploring AI automation",
+      "features": [
+        "1,000 AI credits/month included",
+        "Up to 50 guest rooms",
+        "AI chat assistant (text-only)",
+        "Basic knowledge base & FAQs",
+        "Guest management dashboard",
+        "Reservation tracking",
+        "Email support (24-hour response)",
+        "1 staff user account",
+        "Standard PMS integrations"
+      ],
+      "limits": {
+        "rooms": "50",
+        "users": "1",
+        "storage": "1 GB",
+        "support": "Email only"
+      }
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "$399",
+      "description": "For independent hotels",
+      "tagline": "Full AI suite with voice & automation",
+      "credits": "5,000 AI credits/month",
+      "badge": "Most Popular",
+      "whoThisIsFor": "Independent hotels (50-200 rooms) scaling operations",
+      "features": [
+        "5,000 AI credits/month included",
+        "Up to 200 guest rooms",
+        "AI chat + voice assistant (multilingual)",
+        "Advanced knowledge base with auto-learning",
+        "Automation workflows (check-in, upsells, concierge)",
+        "PMS integration (Opera, Mews, Cloudbeds)",
+        "Real-time analytics & reporting",
+        "Priority support (email + live chat)",
+        "Up to 5 staff user accounts",
+        "10 GB storage"
+      ],
+      "limits": {
+        "rooms": "200",
+        "users": "5",
+        "storage": "10 GB",
+        "support": "Priority (email + chat)"
+      }
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "description": "For hotel groups & chains",
+      "tagline": "Enterprise-grade AI platform with white-label capabilities",
+      "credits": "Custom credit packages (indicative starting point: $1,000+/month, volume discounts available)",
+      "badge": "",
+      "whoThisIsFor": "Hotel chains (200+ rooms) and multi-property groups",
+      "features": [
+        "Custom AI credit packages (volume discounts available)",
+        "Unlimited guest rooms",
+        "White-label AI assistant (your branding)",
+        "Custom AI model training on your data",
+        "Advanced automation with custom triggers",
+        "Multi-property centralized dashboard",
+        "API access & custom integrations",
+        "Dedicated account manager & onboarding",
+        "24/7 priority support (phone + Slack)",
+        "Unlimited staff users",
+        "Unlimited storage",
+        "Custom SLA & 99.9% uptime guarantee"
+      ],
+      "limits": {
+        "rooms": "Unlimited",
+        "users": "Unlimited",
+        "storage": "Unlimited",
+        "support": "24/7 dedicated"
+      }
+    }
+  },
+  "usageExamples": {
+    "title": "What Can You Do With Your Credits?",
+    "subtitle": "Understand what your plan enables",
+    "note": "Mix and match: Use credits across chat, voice, and automation based on your needs",
+    "starter": {
+      "title": "Starter (1,000 credits)",
+      "examples": [
+        "~1,000 AI chat messages with guests",
+        "OR ~200 minutes of AI voice calls",
+        "OR ~100 automation workflow runs",
+        "OR a mix of all three"
+      ]
+    },
+    "professional": {
+      "title": "Professional (5,000 credits)",
+      "examples": [
+        "~5,000 AI chat messages with guests",
+        "OR ~1,000 minutes (16+ hours) of AI voice",
+        "OR ~500 automation runs",
+        "OR any combination to match your operations"
+      ]
+    },
+    "enterprise": {
+      "title": "Enterprise (Custom)",
+      "examples": [
+        "Tailored credit packages for high-volume properties",
+        "Volume discounts for hotel groups",
+        "Predictable monthly costs with usage analytics",
+        "Dedicated success team to optimize credit efficiency"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about pricing, credits, and plans",
+    "contactTitle": "Still have questions?",
+    "contactSubtitle": "Our sales team is here to help you choose the right plan and answer any questions.",
+    "contactButton": "Contact Sales Team",
+    "items": [
+      {
+        "question": "What happens if I run out of credits?",
+        "answer": "AI features will be temporarily paused until you upgrade your plan or purchase additional credits. Core PMS functions remain operational. You'll receive warnings at 80% and 95% usage."
+      },
+      {
+        "question": "Do unused credits roll over?",
+        "answer": "No. Credits reset at the start of each billing cycle. This ensures predictable monthly costs and optimal performance."
+      },
+      {
+        "question": "Can I buy additional credits?",
+        "answer": "Yes. Professional and Enterprise plans can purchase credit top-ups at $0.10 per credit. Contact sales for volume pricing."
+      },
+      {
+        "question": "How do I track my credit usage?",
+        "answer": "Your dashboard shows real-time credit balance, daily usage breakdown (chat/voice/automation), and projected month-end usage. Transparent reporting included."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "Yes! All new hotels get a 14-day free trial with 500 bonus credits to test AI features. No credit card required to start."
+      },
+      {
+        "question": "What's included besides AI credits?",
+        "answer": "All plans include: PMS core features, guest management, reservation system, staff dashboard, basic analytics, and standard integrations. AI credits only power optional AI features."
+      },
+      {
+        "question": "Can I change plans mid-month?",
+        "answer": "Yes. Upgrades take effect immediately with prorated billing. Downgrades apply at the next billing cycle to protect your current credit balance."
+      },
+      {
+        "question": "Do you offer discounts for hotel groups?",
+        "answer": "Yes. Enterprise plans include volume discounts for multi-property groups. Contact sales for custom pricing."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start with 500 Free Credits",
+    "subtitle": "14-day trial. No credit card required.",
+    "button": "Start Free Trial",
+    "contact": "Talk to Sales"
+  },
+  "trust": {
+    "title": "Trusted by Hotels Worldwide",
+    "guarantee": "30-day money-back guarantee • Cancel anytime • No hidden fees"
+  }
+}
